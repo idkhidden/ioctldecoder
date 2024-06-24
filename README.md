@@ -7,7 +7,7 @@ IOCTL Code Decoder is a simple C++ program designed to decode IOCTL (Input/Outpu
 - **Required Access**: Indicates the required access permissions for the IOCTL operation.
 
 ## Note
-Quicker Option: [OSR](https://www.osronline.com/article.cfm%5Earticle=229.html)
+If you're looking for a quicker option: [OSR](https://www.osronline.com/article.cfm%5Earticle=229.html)
 
 ## License
 
