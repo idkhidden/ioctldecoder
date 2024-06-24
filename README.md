@@ -1,5 +1,5 @@
 # IOCTL Code Decoder
-IOCTL Code Decoder is a simple C++ program designed to decode IOCTL (Input/Output Control) codes commonly used in Windows device driver programming.The program extracts and displays the following components:
+IOCTL Code Decoder is a simple C++ program designed to decode IOCTL (Input/Output Control) codes commonly used in Windows device driver programming. The program extracts and displays the following components:
 
 - **Device Type**: Identifies the type of device targeted by the IOCTL.
 - **Function Code**: Specifies the specific operation or function associated with the IOCTL.
